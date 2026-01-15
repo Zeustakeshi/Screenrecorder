@@ -1,0 +1,11 @@
+# robots.txt for Screen Recorder
+# https://screenrecorder.io.vn/
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://screenrecorder.io.vn/sitemap.xml
+
+# Crawl-delay (optional, be nice to small servers)
+Crawl-delay: 1
